@@ -1,7 +1,9 @@
 /* Global */
 body {font-family: Arial, sans-serif; margin: 0; padding: 0;}
 header, nav, main, footer {padding: 1rem;}
-
+nav ul {
+    display: block;
+}
 
 /* Medium screens */
 @media only screen and (min-width: 600px) {
