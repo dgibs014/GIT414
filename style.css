@@ -4,7 +4,7 @@ header, nav, main, footer {padding: 1rem;}
 nav ul {
     display: inline-block;
     text-decoration: none;
-    list-style-type: none;
+    list-style: none;
 }
 
 /* Medium screens */
