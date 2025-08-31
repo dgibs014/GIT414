@@ -1,11 +1,6 @@
 /* Global */
 body {font-family: Arial, sans-serif; margin: 0; padding: 0;}
 header, nav, main, footer {padding: 1rem;}
-nav ul {
-    display: inline-block;
-    text-decoration: none;
-    list-style: none;
-}
 
 /* Medium screens */
 @media only screen and (min-width: 600px) {
